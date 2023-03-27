@@ -1,4 +1,4 @@
-# Desafio Newbies - jogo da Forca 
+# Desafio Newbies - jogo da forca 
 
 Esse código foi feito para a realização do primeiro desafio dos newbies, fizemos um jogo da forca utilizando a linguagem C#. 
 
